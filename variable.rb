@@ -1,1 +1,1 @@
-variable greeting = puts "Hello_world
+greeting = "Hello_world
